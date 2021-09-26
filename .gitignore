@@ -1,0 +1,4 @@
+_local
+venv
+.idea/
+db.sqlite3
